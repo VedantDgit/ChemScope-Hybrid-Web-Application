@@ -1,0 +1,501 @@
+ID,Gender,Age,Customer Status,Customer Service,Satisfaction,Business Area
+1,Male,23,Active,The app crashed multiple times,0,App Usability
+2,Other,67,Active,Pricing was transparent and fair,0,Pricing
+3,Male,60,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+4,Female,31,Active,Dropoff was fast and efficient,0,Dropoff Process
+5,Female,50,Active,Had trouble locating the rental office,1,Pickup Process
+6,Male,39,Active,App interface is user-friendly,0,App Usability
+7,Female,61,Inactive,Support resolved my issue quickly,0,Customer Support
+8,Male,69,Inactive,Pricing was transparent and fair,0,Pricing
+9,Female,51,Inactive,Confusing dropoff instructions,0,Dropoff Process
+10,Female,27,Inactive,Booking was seamless through the app,0,App Usability
+11,Other,56,Inactive,Pickup was quick and easy,1,Pickup Process
+12,Female,62,Active,Support resolved my issue quickly,0,Customer Support
+13,Male,48,Active,No one responded to my issue,1,Customer Support
+14,Male,52,Inactive,"Smooth ride, no problems at all",0,Vehicle Quality
+15,Female,44,Inactive,Confusing dropoff instructions,0,Dropoff Process
+16,Other,62,Active,Customer support was very helpful,0,Customer Support
+17,Male,62,Inactive,Had a bad experience with the helpline,0,Customer Support
+18,Female,25,Inactive,Pricing was transparent and fair,1,Pricing
+19,Other,70,Active,Pricing was transparent and fair,0,Pricing
+20,Female,48,Inactive,Pickup was quick and easy,0,Pickup Process
+21,Female,68,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+22,Female,62,Inactive,Had trouble locating the rental office,1,Pickup Process
+23,Other,55,Active,Booking was seamless through the app,1,App Usability
+24,Male,40,Active,No one responded to my issue,1,Customer Support
+25,Female,19,Active,"Smooth ride, no problems at all",1,Vehicle Quality
+26,Male,45,Inactive,The car was clean and in good condition,1,Vehicle Quality
+27,Female,52,Active,The app crashed multiple times,0,App Usability
+28,Male,29,Active,The vehicle had mechanical issues,0,Vehicle Quality
+29,Male,41,Inactive,Dropoff location was very convenient,0,Dropoff Process
+30,Female,28,Active,Customer support was very helpful,0,Customer Support
+31,Other,59,Inactive,App interface is user-friendly,0,App Usability
+32,Female,21,Active,The rental price was too high,0,Pricing
+33,Other,31,Active,Had trouble locating the rental office,0,Pickup Process
+34,Female,39,Inactive,The app crashed multiple times,0,App Usability
+35,Male,44,Active,No one responded to my issue,0,Customer Support
+36,Other,67,Active,Had a bad experience with the helpline,0,Customer Support
+37,Male,30,Inactive,I had to wait too long for dropoff,1,Dropoff Process
+38,Female,44,Inactive,Pricing was transparent and fair,1,Pricing
+39,Other,18,Inactive,No one responded to my issue,0,Customer Support
+40,Male,41,Inactive,Staff at pickup were helpful,0,Pickup Process
+41,Male,24,Active,App interface is user-friendly,0,App Usability
+42,Other,55,Active,Customer support was very helpful,0,Customer Support
+43,Male,57,Inactive,Unexpected fees were added to my bill,1,Pricing
+44,Other,39,Active,Confusing dropoff instructions,1,Dropoff Process
+45,Other,53,Inactive,Long wait time during pickup,1,Pickup Process
+46,Other,20,Active,I had to wait too long for dropoff,0,Dropoff Process
+47,Other,64,Active,Confusing dropoff instructions,0,Dropoff Process
+48,Other,47,Active,Dropoff was fast and efficient,0,Dropoff Process
+49,Female,57,Active,Long wait time during pickup,0,Pickup Process
+50,Male,52,Active,Dropoff was fast and efficient,0,Dropoff Process
+51,Other,54,Inactive,I received an old model with scratches,1,Vehicle Quality
+52,Male,23,Active,Long wait time during pickup,0,Pickup Process
+53,Male,68,Active,"Smooth ride, no problems at all",0,Vehicle Quality
+54,Female,43,Inactive,I received an old model with scratches,0,Vehicle Quality
+55,Male,29,Active,Pricing was transparent and fair,1,Pricing
+56,Male,68,Active,Dropoff location was very convenient,1,Dropoff Process
+57,Male,44,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+58,Male,24,Active,The vehicle had mechanical issues,0,Vehicle Quality
+59,Male,18,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+60,Female,38,Inactive,"I got a great deal, very affordable",0,Pricing
+61,Female,55,Active,Had a bad experience with the helpline,0,Customer Support
+62,Other,59,Active,Had a bad experience with the helpline,1,Customer Support
+63,Other,27,Active,Dropoff was fast and efficient,1,Dropoff Process
+64,Male,52,Inactive,I received an old model with scratches,1,Vehicle Quality
+65,Female,36,Active,Confusing dropoff instructions,1,Dropoff Process
+66,Female,41,Inactive,The rental price was too high,1,Pricing
+67,Other,52,Inactive,The app crashed multiple times,0,App Usability
+68,Male,30,Active,Unexpected fees were added to my bill,1,Pricing
+69,Female,25,Active,Support resolved my issue quickly,0,Customer Support
+70,Male,68,Inactive,Staff at pickup were helpful,0,Pickup Process
+71,Other,28,Inactive,The rental price was too high,0,Pricing
+72,Female,62,Active,The car was clean and in good condition,0,Vehicle Quality
+73,Female,39,Active,The vehicle had mechanical issues,1,Vehicle Quality
+74,Male,69,Inactive,Had a bad experience with the helpline,0,Customer Support
+75,Female,57,Active,The vehicle had mechanical issues,0,Vehicle Quality
+76,Other,45,Active,Long wait time during pickup,1,Pickup Process
+77,Other,36,Active,Dropoff was fast and efficient,1,Dropoff Process
+78,Other,26,Inactive,The vehicle had mechanical issues,1,Vehicle Quality
+79,Other,41,Inactive,The rental price was too high,0,Pricing
+80,Other,62,Active,Dropoff location was very convenient,1,Dropoff Process
+81,Female,58,Inactive,I had to wait too long for dropoff,1,Dropoff Process
+82,Other,55,Inactive,I received an old model with scratches,1,Vehicle Quality
+83,Male,55,Active,Pickup was quick and easy,1,Pickup Process
+84,Male,29,Inactive,No one responded to my issue,1,Customer Support
+85,Other,45,Inactive,Unexpected fees were added to my bill,1,Pricing
+86,Other,66,Active,Customer support was very helpful,1,Customer Support
+87,Other,20,Inactive,Dropoff location was very convenient,1,Dropoff Process
+88,Male,34,Inactive,The rental price was too high,0,Pricing
+89,Female,26,Active,Had a bad experience with the helpline,0,Customer Support
+90,Female,51,Active,I had to wait too long for dropoff,1,Dropoff Process
+91,Female,60,Inactive,Booking was seamless through the app,1,App Usability
+92,Male,65,Inactive,Customer support was very helpful,0,Customer Support
+93,Other,31,Inactive,Support resolved my issue quickly,1,Customer Support
+94,Other,68,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+95,Female,32,Inactive,I received an old model with scratches,1,Vehicle Quality
+96,Male,33,Active,I received an old model with scratches,1,Vehicle Quality
+97,Male,57,Active,Booking was seamless through the app,1,App Usability
+98,Male,57,Inactive,Unexpected fees were added to my bill,0,Pricing
+99,Female,24,Inactive,The rental price was too high,0,Pricing
+100,Other,40,Active,Dropoff location was very convenient,1,Dropoff Process
+101,Other,52,Inactive,Pickup was quick and easy,0,Pickup Process
+102,Female,40,Active,Had trouble locating the rental office,1,Pickup Process
+103,Female,23,Inactive,The car was clean and in good condition,0,Vehicle Quality
+104,Female,67,Inactive,The car was clean and in good condition,1,Vehicle Quality
+105,Other,52,Inactive,The car was clean and in good condition,1,Vehicle Quality
+106,Other,70,Active,The car was clean and in good condition,0,Vehicle Quality
+107,Male,58,Inactive,The vehicle had mechanical issues,0,Vehicle Quality
+108,Male,59,Active,Booking was seamless through the app,1,App Usability
+109,Female,39,Active,No one responded to my issue,0,Customer Support
+110,Male,46,Inactive,Dropoff was fast and efficient,1,Dropoff Process
+111,Male,20,Active,I had to wait too long for dropoff,0,Dropoff Process
+112,Male,22,Active,Booking was seamless through the app,1,App Usability
+113,Female,38,Active,I received an old model with scratches,0,Vehicle Quality
+114,Female,57,Inactive,Customer support was very helpful,1,Customer Support
+115,Female,32,Inactive,The vehicle had mechanical issues,1,Vehicle Quality
+116,Other,70,Active,The vehicle had mechanical issues,0,Vehicle Quality
+117,Other,39,Inactive,Customer support was very helpful,1,Customer Support
+118,Other,23,Active,The rental price was too high,0,Pricing
+119,Other,45,Active,"Smooth ride, no problems at all",1,Vehicle Quality
+120,Female,47,Active,I had to wait too long for dropoff,1,Dropoff Process
+121,Female,19,Inactive,The vehicle had mechanical issues,1,Vehicle Quality
+122,Female,39,Active,Difficult to navigate the app,0,App Usability
+123,Male,36,Inactive,Support resolved my issue quickly,0,Customer Support
+124,Male,55,Inactive,Unexpected fees were added to my bill,1,Pricing
+125,Other,39,Active,Dropoff was fast and efficient,0,Dropoff Process
+126,Female,21,Active,The car was clean and in good condition,1,Vehicle Quality
+127,Female,46,Inactive,Support resolved my issue quickly,1,Customer Support
+128,Male,22,Active,App interface is user-friendly,0,App Usability
+129,Female,33,Inactive,Had trouble locating the rental office,1,Pickup Process
+130,Female,44,Active,The car was clean and in good condition,1,Vehicle Quality
+131,Female,20,Inactive,Dropoff was fast and efficient,0,Dropoff Process
+132,Male,27,Inactive,Had trouble locating the rental office,1,Pickup Process
+133,Other,33,Inactive,Dropoff location was very convenient,0,Dropoff Process
+134,Other,23,Inactive,No one responded to my issue,1,Customer Support
+135,Male,67,Active,Support resolved my issue quickly,0,Customer Support
+136,Other,61,Active,Customer support was very helpful,1,Customer Support
+137,Female,58,Inactive,Booking was seamless through the app,0,App Usability
+138,Male,34,Active,Support resolved my issue quickly,1,Customer Support
+139,Other,60,Inactive,Long wait time during pickup,1,Pickup Process
+140,Other,65,Active,Pricing was transparent and fair,0,Pricing
+141,Male,54,Inactive,Support resolved my issue quickly,1,Customer Support
+142,Other,22,Active,Dropoff location was very convenient,1,Dropoff Process
+143,Male,60,Inactive,No one responded to my issue,0,Customer Support
+144,Male,40,Active,Staff at pickup were helpful,1,Pickup Process
+145,Male,69,Inactive,Staff at pickup were helpful,1,Pickup Process
+146,Female,50,Active,Customer support was very helpful,0,Customer Support
+147,Other,18,Active,Customer support was very helpful,0,Customer Support
+148,Female,40,Inactive,I received an old model with scratches,0,Vehicle Quality
+149,Male,43,Active,Pricing was transparent and fair,0,Pricing
+150,Other,24,Active,Long wait time during pickup,0,Pickup Process
+151,Female,39,Active,Pricing was transparent and fair,0,Pricing
+152,Other,55,Active,The car was clean and in good condition,1,Vehicle Quality
+153,Other,20,Active,Booking was seamless through the app,1,App Usability
+154,Male,64,Inactive,Support resolved my issue quickly,1,Customer Support
+155,Male,31,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+156,Male,70,Active,Dropoff location was very convenient,1,Dropoff Process
+157,Male,36,Inactive,Difficult to navigate the app,0,App Usability
+158,Female,39,Active,Pricing was transparent and fair,1,Pricing
+159,Female,67,Inactive,Had trouble locating the rental office,0,Pickup Process
+160,Other,39,Inactive,"I got a great deal, very affordable",0,Pricing
+161,Female,59,Active,App interface is user-friendly,0,App Usability
+162,Male,26,Inactive,I received an old model with scratches,1,Vehicle Quality
+163,Male,56,Inactive,Difficult to navigate the app,0,App Usability
+164,Male,44,Inactive,Pickup was quick and easy,1,Pickup Process
+165,Other,59,Inactive,Had trouble locating the rental office,1,Pickup Process
+166,Male,51,Active,The rental price was too high,1,Pricing
+167,Other,61,Active,Had a bad experience with the helpline,1,Customer Support
+168,Other,40,Active,The rental price was too high,1,Pricing
+169,Other,53,Inactive,Confusing dropoff instructions,1,Dropoff Process
+170,Female,63,Inactive,Pricing was transparent and fair,0,Pricing
+171,Female,21,Active,The rental price was too high,0,Pricing
+172,Male,22,Active,Booking was seamless through the app,1,App Usability
+173,Male,58,Inactive,I received an old model with scratches,1,Vehicle Quality
+174,Female,39,Inactive,Had trouble locating the rental office,1,Pickup Process
+175,Female,21,Active,"Smooth ride, no problems at all",1,Vehicle Quality
+176,Male,40,Active,The app crashed multiple times,0,App Usability
+177,Other,37,Inactive,I received an old model with scratches,0,Vehicle Quality
+178,Female,48,Active,The app crashed multiple times,0,App Usability
+179,Female,19,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+180,Male,62,Inactive,Long wait time during pickup,1,Pickup Process
+181,Female,29,Active,App interface is user-friendly,1,App Usability
+182,Other,31,Active,I received an old model with scratches,1,Vehicle Quality
+183,Male,41,Inactive,Difficult to navigate the app,1,App Usability
+184,Other,41,Active,The rental price was too high,0,Pricing
+185,Female,49,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+186,Male,34,Inactive,I had to wait too long for dropoff,1,Dropoff Process
+187,Female,49,Active,Pricing was transparent and fair,0,Pricing
+188,Male,21,Inactive,Booking was seamless through the app,1,App Usability
+189,Female,23,Active,Unexpected fees were added to my bill,1,Pricing
+190,Male,42,Inactive,Had trouble locating the rental office,1,Pickup Process
+191,Other,24,Active,Customer support was very helpful,0,Customer Support
+192,Male,33,Inactive,Had trouble locating the rental office,0,Pickup Process
+193,Male,32,Active,The rental price was too high,0,Pricing
+194,Female,50,Inactive,Difficult to navigate the app,1,App Usability
+195,Female,33,Active,Had trouble locating the rental office,0,Pickup Process
+196,Other,44,Inactive,Had trouble locating the rental office,1,Pickup Process
+197,Other,29,Active,Dropoff was fast and efficient,1,Dropoff Process
+198,Other,39,Inactive,Pickup was quick and easy,1,Pickup Process
+199,Other,54,Inactive,Dropoff was fast and efficient,1,Dropoff Process
+200,Female,45,Active,No one responded to my issue,1,Customer Support
+201,Female,21,Active,Confusing dropoff instructions,1,Dropoff Process
+202,Other,70,Active,Difficult to navigate the app,1,App Usability
+203,Female,19,Inactive,The app crashed multiple times,0,App Usability
+204,Female,70,Active,"Smooth ride, no problems at all",0,Vehicle Quality
+205,Female,33,Active,Booking was seamless through the app,0,App Usability
+206,Female,26,Inactive,The rental price was too high,0,Pricing
+207,Other,38,Inactive,Unexpected fees were added to my bill,0,Pricing
+208,Female,27,Inactive,Confusing dropoff instructions,0,Dropoff Process
+209,Male,69,Inactive,Had trouble locating the rental office,1,Pickup Process
+210,Male,65,Active,I received an old model with scratches,0,Vehicle Quality
+211,Female,34,Active,Dropoff was fast and efficient,1,Dropoff Process
+212,Other,52,Active,Support resolved my issue quickly,0,Customer Support
+213,Other,33,Active,Pricing was transparent and fair,0,Pricing
+214,Male,42,Active,Long wait time during pickup,0,Pickup Process
+215,Other,50,Active,I received an old model with scratches,1,Vehicle Quality
+216,Male,46,Inactive,I received an old model with scratches,1,Vehicle Quality
+217,Male,52,Inactive,Unexpected fees were added to my bill,1,Pricing
+218,Male,21,Inactive,Staff at pickup were helpful,1,Pickup Process
+219,Other,45,Inactive,Unexpected fees were added to my bill,1,Pricing
+220,Female,38,Active,Confusing dropoff instructions,0,Dropoff Process
+221,Other,68,Active,"I got a great deal, very affordable",1,Pricing
+222,Male,20,Active,"I got a great deal, very affordable",0,Pricing
+223,Male,58,Active,Difficult to navigate the app,0,App Usability
+224,Male,40,Active,Long wait time during pickup,1,Pickup Process
+225,Male,53,Active,Had a bad experience with the helpline,1,Customer Support
+226,Male,37,Inactive,Dropoff location was very convenient,1,Dropoff Process
+227,Other,61,Active,Unexpected fees were added to my bill,1,Pricing
+228,Female,52,Active,Dropoff was fast and efficient,0,Dropoff Process
+229,Male,31,Active,Booking was seamless through the app,0,App Usability
+230,Female,42,Inactive,Had trouble locating the rental office,0,Pickup Process
+231,Other,65,Active,App interface is user-friendly,1,App Usability
+232,Other,33,Inactive,Unexpected fees were added to my bill,0,Pricing
+233,Other,37,Inactive,Dropoff location was very convenient,0,Dropoff Process
+234,Female,24,Active,"I got a great deal, very affordable",1,Pricing
+235,Other,35,Active,The car was clean and in good condition,0,Vehicle Quality
+236,Male,68,Inactive,Pickup was quick and easy,0,Pickup Process
+237,Male,18,Inactive,No one responded to my issue,0,Customer Support
+238,Female,26,Active,Had a bad experience with the helpline,1,Customer Support
+239,Female,41,Active,"Smooth ride, no problems at all",1,Vehicle Quality
+240,Male,19,Active,I had to wait too long for dropoff,0,Dropoff Process
+241,Other,32,Active,Dropoff location was very convenient,0,Dropoff Process
+242,Other,56,Inactive,Support resolved my issue quickly,1,Customer Support
+243,Female,52,Active,Difficult to navigate the app,0,App Usability
+244,Female,67,Inactive,Had trouble locating the rental office,1,Pickup Process
+245,Male,45,Active,The car was clean and in good condition,0,Vehicle Quality
+246,Male,51,Active,The rental price was too high,1,Pricing
+247,Male,61,Inactive,Dropoff location was very convenient,0,Dropoff Process
+248,Male,38,Inactive,Booking was seamless through the app,1,App Usability
+249,Female,19,Active,Long wait time during pickup,1,Pickup Process
+250,Female,61,Active,The rental price was too high,1,Pricing
+251,Male,23,Active,No one responded to my issue,0,Customer Support
+252,Other,56,Inactive,Customer support was very helpful,0,Customer Support
+253,Other,60,Active,Pickup was quick and easy,1,Pickup Process
+254,Female,32,Inactive,The app crashed multiple times,0,App Usability
+255,Male,39,Inactive,The car was clean and in good condition,0,Vehicle Quality
+256,Male,50,Active,Customer support was very helpful,1,Customer Support
+257,Female,65,Inactive,The rental price was too high,0,Pricing
+258,Other,67,Active,"I got a great deal, very affordable",0,Pricing
+259,Female,30,Inactive,The rental price was too high,1,Pricing
+260,Other,26,Inactive,The rental price was too high,1,Pricing
+261,Female,25,Active,Pickup was quick and easy,0,Pickup Process
+262,Male,33,Inactive,Long wait time during pickup,1,Pickup Process
+263,Male,47,Inactive,The car was clean and in good condition,0,Vehicle Quality
+264,Other,47,Inactive,Booking was seamless through the app,0,App Usability
+265,Female,52,Inactive,Difficult to navigate the app,0,App Usability
+266,Other,27,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+267,Male,65,Active,Difficult to navigate the app,1,App Usability
+268,Male,55,Inactive,Customer support was very helpful,0,Customer Support
+269,Other,67,Inactive,"I got a great deal, very affordable",1,Pricing
+270,Male,27,Active,Had a bad experience with the helpline,1,Customer Support
+271,Male,28,Active,Support resolved my issue quickly,1,Customer Support
+272,Male,31,Active,The car was clean and in good condition,1,Vehicle Quality
+273,Female,63,Inactive,The vehicle had mechanical issues,0,Vehicle Quality
+274,Female,33,Active,Pickup was quick and easy,0,Pickup Process
+275,Other,22,Inactive,Dropoff location was very convenient,0,Dropoff Process
+276,Other,22,Inactive,"Smooth ride, no problems at all",0,Vehicle Quality
+277,Male,25,Inactive,No one responded to my issue,1,Customer Support
+278,Other,28,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+279,Male,60,Inactive,Support resolved my issue quickly,0,Customer Support
+280,Other,37,Inactive,Staff at pickup were helpful,0,Pickup Process
+281,Female,65,Active,The vehicle had mechanical issues,0,Vehicle Quality
+282,Other,32,Active,The app crashed multiple times,0,App Usability
+283,Other,68,Active,Had a bad experience with the helpline,0,Customer Support
+284,Other,61,Active,Confusing dropoff instructions,0,Dropoff Process
+285,Other,61,Active,Pickup was quick and easy,1,Pickup Process
+286,Male,52,Active,Long wait time during pickup,1,Pickup Process
+287,Male,54,Active,Dropoff location was very convenient,1,Dropoff Process
+288,Female,24,Inactive,The rental price was too high,0,Pricing
+289,Other,29,Inactive,Pricing was transparent and fair,1,Pricing
+290,Other,18,Active,Dropoff was fast and efficient,1,Dropoff Process
+291,Female,29,Active,Had a bad experience with the helpline,1,Customer Support
+292,Female,38,Active,Booking was seamless through the app,1,App Usability
+293,Other,38,Active,I had to wait too long for dropoff,0,Dropoff Process
+294,Other,42,Inactive,Difficult to navigate the app,1,App Usability
+295,Female,64,Active,"Smooth ride, no problems at all",1,Vehicle Quality
+296,Male,42,Active,Dropoff location was very convenient,1,Dropoff Process
+297,Female,19,Active,I received an old model with scratches,0,Vehicle Quality
+298,Other,24,Inactive,Long wait time during pickup,0,Pickup Process
+299,Female,29,Active,The car was clean and in good condition,1,Vehicle Quality
+300,Other,57,Inactive,The app crashed multiple times,1,App Usability
+301,Female,32,Active,Support resolved my issue quickly,1,Customer Support
+302,Female,39,Inactive,I had to wait too long for dropoff,1,Dropoff Process
+303,Male,63,Inactive,App interface is user-friendly,0,App Usability
+304,Other,25,Inactive,Booking was seamless through the app,0,App Usability
+305,Other,69,Active,"Smooth ride, no problems at all",0,Vehicle Quality
+306,Male,24,Active,Had trouble locating the rental office,1,Pickup Process
+307,Male,52,Active,Difficult to navigate the app,1,App Usability
+308,Female,47,Active,Confusing dropoff instructions,0,Dropoff Process
+309,Other,30,Active,Pricing was transparent and fair,1,Pricing
+310,Other,39,Inactive,Had trouble locating the rental office,1,Pickup Process
+311,Other,35,Inactive,Support resolved my issue quickly,1,Customer Support
+312,Female,62,Inactive,No one responded to my issue,0,Customer Support
+313,Male,28,Active,App interface is user-friendly,0,App Usability
+314,Female,31,Inactive,Long wait time during pickup,1,Pickup Process
+315,Male,28,Active,Dropoff was fast and efficient,0,Dropoff Process
+316,Female,34,Active,Pickup was quick and easy,0,Pickup Process
+317,Other,20,Active,Support resolved my issue quickly,1,Customer Support
+318,Other,51,Active,The app crashed multiple times,1,App Usability
+319,Female,55,Inactive,Booking was seamless through the app,1,App Usability
+320,Female,53,Active,The app crashed multiple times,0,App Usability
+321,Male,58,Inactive,Pricing was transparent and fair,1,Pricing
+322,Female,58,Active,I received an old model with scratches,1,Vehicle Quality
+323,Female,33,Inactive,The app crashed multiple times,1,App Usability
+324,Female,56,Active,Dropoff location was very convenient,1,Dropoff Process
+325,Female,69,Inactive,App interface is user-friendly,1,App Usability
+326,Male,30,Active,I had to wait too long for dropoff,1,Dropoff Process
+327,Other,52,Inactive,Dropoff was fast and efficient,0,Dropoff Process
+328,Female,36,Active,Staff at pickup were helpful,1,Pickup Process
+329,Other,21,Inactive,No one responded to my issue,0,Customer Support
+330,Other,57,Active,Customer support was very helpful,1,Customer Support
+331,Male,19,Inactive,Unexpected fees were added to my bill,1,Pricing
+332,Male,41,Active,"I got a great deal, very affordable",1,Pricing
+333,Other,70,Active,Pricing was transparent and fair,0,Pricing
+334,Female,64,Active,The rental price was too high,1,Pricing
+335,Other,69,Inactive,The rental price was too high,0,Pricing
+336,Female,28,Inactive,No one responded to my issue,1,Customer Support
+337,Female,39,Inactive,Long wait time during pickup,0,Pickup Process
+338,Female,28,Inactive,The vehicle had mechanical issues,0,Vehicle Quality
+339,Other,65,Inactive,Dropoff was fast and efficient,1,Dropoff Process
+340,Female,57,Inactive,No one responded to my issue,0,Customer Support
+341,Female,55,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+342,Male,33,Inactive,App interface is user-friendly,1,App Usability
+343,Female,51,Inactive,Dropoff location was very convenient,1,Dropoff Process
+344,Other,22,Inactive,The car was clean and in good condition,1,Vehicle Quality
+345,Other,27,Inactive,App interface is user-friendly,1,App Usability
+346,Female,56,Active,I had to wait too long for dropoff,1,Dropoff Process
+347,Male,36,Inactive,Pricing was transparent and fair,0,Pricing
+348,Female,31,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+349,Female,26,Active,Unexpected fees were added to my bill,0,Pricing
+350,Male,23,Inactive,App interface is user-friendly,0,App Usability
+351,Other,54,Inactive,Confusing dropoff instructions,1,Dropoff Process
+352,Female,33,Inactive,Unexpected fees were added to my bill,0,Pricing
+353,Male,25,Active,Pickup was quick and easy,0,Pickup Process
+354,Other,64,Inactive,Customer support was very helpful,0,Customer Support
+355,Female,56,Inactive,"Smooth ride, no problems at all",0,Vehicle Quality
+356,Male,23,Active,Customer support was very helpful,0,Customer Support
+357,Female,62,Active,Had trouble locating the rental office,0,Pickup Process
+358,Male,38,Inactive,Unexpected fees were added to my bill,1,Pricing
+359,Female,66,Inactive,Pricing was transparent and fair,1,Pricing
+360,Male,60,Inactive,Pricing was transparent and fair,1,Pricing
+361,Male,36,Active,Long wait time during pickup,1,Pickup Process
+362,Male,40,Active,Confusing dropoff instructions,1,Dropoff Process
+363,Other,43,Inactive,Pickup was quick and easy,1,Pickup Process
+364,Male,36,Active,Staff at pickup were helpful,1,Pickup Process
+365,Other,27,Inactive,Support resolved my issue quickly,1,Customer Support
+366,Male,57,Inactive,Confusing dropoff instructions,1,Dropoff Process
+367,Female,62,Active,The app crashed multiple times,0,App Usability
+368,Female,31,Inactive,Difficult to navigate the app,1,App Usability
+369,Female,27,Inactive,Support resolved my issue quickly,1,Customer Support
+370,Female,56,Inactive,The car was clean and in good condition,1,Vehicle Quality
+371,Male,38,Inactive,Dropoff was fast and efficient,1,Dropoff Process
+372,Male,20,Inactive,Dropoff was fast and efficient,0,Dropoff Process
+373,Male,42,Active,Booking was seamless through the app,1,App Usability
+374,Other,23,Inactive,Unexpected fees were added to my bill,0,Pricing
+375,Female,70,Inactive,Support resolved my issue quickly,1,Customer Support
+376,Female,26,Inactive,Had trouble locating the rental office,0,Pickup Process
+377,Other,20,Active,The vehicle had mechanical issues,1,Vehicle Quality
+378,Other,35,Active,I received an old model with scratches,1,Vehicle Quality
+379,Male,44,Active,"I got a great deal, very affordable",1,Pricing
+380,Male,25,Inactive,Dropoff was fast and efficient,1,Dropoff Process
+381,Other,44,Inactive,Support resolved my issue quickly,0,Customer Support
+382,Female,34,Active,Pickup was quick and easy,1,Pickup Process
+383,Female,29,Inactive,No one responded to my issue,0,Customer Support
+384,Other,26,Active,Had a bad experience with the helpline,1,Customer Support
+385,Female,42,Inactive,No one responded to my issue,1,Customer Support
+386,Female,37,Inactive,"I got a great deal, very affordable",0,Pricing
+387,Other,50,Active,No one responded to my issue,1,Customer Support
+388,Male,59,Active,"I got a great deal, very affordable",1,Pricing
+389,Other,40,Inactive,"I got a great deal, very affordable",1,Pricing
+390,Male,62,Inactive,Support resolved my issue quickly,0,Customer Support
+391,Other,54,Inactive,Booking was seamless through the app,0,App Usability
+392,Female,42,Inactive,Had trouble locating the rental office,0,Pickup Process
+393,Female,31,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+394,Female,41,Inactive,Had trouble locating the rental office,0,Pickup Process
+395,Male,67,Inactive,The app crashed multiple times,1,App Usability
+396,Other,51,Active,Long wait time during pickup,1,Pickup Process
+397,Female,38,Active,"Smooth ride, no problems at all",1,Vehicle Quality
+398,Male,56,Inactive,Confusing dropoff instructions,0,Dropoff Process
+399,Other,52,Inactive,The car was clean and in good condition,0,Vehicle Quality
+400,Female,20,Inactive,Customer support was very helpful,1,Customer Support
+401,Other,34,Active,Unexpected fees were added to my bill,1,Pricing
+402,Male,43,Inactive,I had to wait too long for dropoff,1,Dropoff Process
+403,Other,49,Active,Pickup was quick and easy,1,Pickup Process
+404,Female,19,Inactive,Had trouble locating the rental office,1,Pickup Process
+405,Male,41,Active,I received an old model with scratches,0,Vehicle Quality
+406,Other,40,Active,I received an old model with scratches,0,Vehicle Quality
+407,Male,39,Active,Long wait time during pickup,1,Pickup Process
+408,Other,54,Active,Booking was seamless through the app,0,App Usability
+409,Other,49,Inactive,Long wait time during pickup,0,Pickup Process
+410,Female,68,Inactive,The rental price was too high,0,Pricing
+411,Male,56,Inactive,No one responded to my issue,1,Customer Support
+412,Other,29,Active,I received an old model with scratches,0,Vehicle Quality
+413,Female,21,Inactive,Staff at pickup were helpful,1,Pickup Process
+414,Other,22,Active,The rental price was too high,0,Pricing
+415,Female,31,Active,Booking was seamless through the app,1,App Usability
+416,Female,32,Inactive,I received an old model with scratches,0,Vehicle Quality
+417,Male,37,Inactive,Staff at pickup were helpful,0,Pickup Process
+418,Male,60,Active,Booking was seamless through the app,0,App Usability
+419,Female,45,Inactive,Pickup was quick and easy,0,Pickup Process
+420,Female,52,Inactive,Pricing was transparent and fair,1,Pricing
+421,Other,62,Inactive,No one responded to my issue,0,Customer Support
+422,Female,37,Active,Had trouble locating the rental office,1,Pickup Process
+423,Male,25,Inactive,Booking was seamless through the app,0,App Usability
+424,Other,40,Inactive,Dropoff was fast and efficient,0,Dropoff Process
+425,Female,67,Active,Support resolved my issue quickly,0,Customer Support
+426,Male,66,Active,Pricing was transparent and fair,0,Pricing
+427,Other,35,Active,Staff at pickup were helpful,1,Pickup Process
+428,Male,31,Inactive,Customer support was very helpful,0,Customer Support
+429,Other,29,Active,Booking was seamless through the app,0,App Usability
+430,Other,27,Inactive,Long wait time during pickup,0,Pickup Process
+431,Other,57,Active,"I got a great deal, very affordable",0,Pricing
+432,Male,48,Inactive,The rental price was too high,1,Pricing
+433,Other,53,Inactive,Dropoff was fast and efficient,1,Dropoff Process
+434,Other,40,Active,Dropoff was fast and efficient,0,Dropoff Process
+435,Other,57,Inactive,Unexpected fees were added to my bill,1,Pricing
+436,Other,22,Inactive,The vehicle had mechanical issues,0,Vehicle Quality
+437,Male,63,Active,Had a bad experience with the helpline,0,Customer Support
+438,Male,21,Active,Customer support was very helpful,1,Customer Support
+439,Female,18,Inactive,Support resolved my issue quickly,0,Customer Support
+440,Other,27,Active,The car was clean and in good condition,0,Vehicle Quality
+441,Female,37,Active,Long wait time during pickup,0,Pickup Process
+442,Other,25,Inactive,The app crashed multiple times,1,App Usability
+443,Male,34,Active,"I got a great deal, very affordable",1,Pricing
+444,Male,32,Active,Dropoff was fast and efficient,0,Dropoff Process
+445,Female,58,Inactive,The rental price was too high,1,Pricing
+446,Male,61,Active,Dropoff was fast and efficient,0,Dropoff Process
+447,Other,61,Active,Booking was seamless through the app,0,App Usability
+448,Male,41,Active,Pickup was quick and easy,0,Pickup Process
+449,Male,18,Active,Booking was seamless through the app,0,App Usability
+450,Female,22,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+451,Other,36,Active,Support resolved my issue quickly,0,Customer Support
+452,Male,44,Active,Long wait time during pickup,1,Pickup Process
+453,Other,57,Inactive,Unexpected fees were added to my bill,0,Pricing
+454,Other,40,Inactive,Pricing was transparent and fair,1,Pricing
+455,Male,55,Active,Dropoff was fast and efficient,1,Dropoff Process
+456,Other,41,Active,Difficult to navigate the app,1,App Usability
+457,Other,53,Inactive,Support resolved my issue quickly,1,Customer Support
+458,Other,23,Inactive,No one responded to my issue,0,Customer Support
+459,Male,67,Active,I received an old model with scratches,1,Vehicle Quality
+460,Other,70,Inactive,Staff at pickup were helpful,1,Pickup Process
+461,Female,36,Inactive,Pricing was transparent and fair,1,Pricing
+462,Other,19,Inactive,The rental price was too high,1,Pricing
+463,Female,20,Active,App interface is user-friendly,1,App Usability
+464,Male,59,Active,Pickup was quick and easy,1,Pickup Process
+465,Male,23,Inactive,Confusing dropoff instructions,1,Dropoff Process
+466,Female,49,Active,Unexpected fees were added to my bill,1,Pricing
+467,Male,21,Inactive,Pricing was transparent and fair,1,Pricing
+468,Female,20,Inactive,Pricing was transparent and fair,0,Pricing
+469,Female,58,Active,Support resolved my issue quickly,1,Customer Support
+470,Female,66,Inactive,Had trouble locating the rental office,1,Pickup Process
+471,Male,65,Active,Support resolved my issue quickly,1,Customer Support
+472,Female,69,Inactive,The car was clean and in good condition,1,Vehicle Quality
+473,Male,41,Active,I had to wait too long for dropoff,0,Dropoff Process
+474,Female,69,Inactive,Long wait time during pickup,0,Pickup Process
+475,Other,44,Inactive,Booking was seamless through the app,0,App Usability
+476,Female,53,Active,The vehicle had mechanical issues,1,Vehicle Quality
+477,Other,40,Inactive,Dropoff location was very convenient,1,Dropoff Process
+478,Female,69,Active,Dropoff location was very convenient,1,Dropoff Process
+479,Male,47,Active,Staff at pickup were helpful,0,Pickup Process
+480,Male,45,Active,Pickup was quick and easy,0,Pickup Process
+481,Other,39,Active,Dropoff location was very convenient,0,Dropoff Process
+482,Male,27,Inactive,The car was clean and in good condition,1,Vehicle Quality
+483,Other,61,Active,The rental price was too high,1,Pricing
+484,Male,66,Inactive,I received an old model with scratches,1,Vehicle Quality
+485,Male,59,Active,The car was clean and in good condition,0,Vehicle Quality
+486,Other,46,Inactive,I had to wait too long for dropoff,0,Dropoff Process
+487,Male,63,Active,Pickup was quick and easy,0,Pickup Process
+488,Male,63,Active,Staff at pickup were helpful,1,Pickup Process
+489,Female,23,Inactive,Had a bad experience with the helpline,1,Customer Support
+490,Female,51,Active,I had to wait too long for dropoff,0,Dropoff Process
+491,Male,48,Inactive,Pickup was quick and easy,0,Pickup Process
+492,Female,45,Inactive,Dropoff location was very convenient,1,Dropoff Process
+493,Male,32,Active,Difficult to navigate the app,0,App Usability
+494,Male,49,Inactive,Pricing was transparent and fair,0,Pricing
+495,Female,62,Active,App interface is user-friendly,0,App Usability
+496,Male,25,Inactive,"Smooth ride, no problems at all",1,Vehicle Quality
+497,Male,37,Active,The car was clean and in good condition,0,Vehicle Quality
+498,Other,24,Active,Pickup was quick and easy,0,Pickup Process
+499,Female,29,Inactive,The vehicle had mechanical issues,1,Vehicle Quality
+500,Female,64,Inactive,Unexpected fees were added to my bill,1,Pricing

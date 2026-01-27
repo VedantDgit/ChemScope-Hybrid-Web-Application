@@ -1,0 +1,501 @@
+ID,Phrase,Sentiment
+1,The plaintiff's claims are dismissed.,-1
+2,The contract is deemed valid and enforceable.,1
+3,The appeal is denied due to lack of merit.,-1
+4,The legal team submitted additional evidence.,0
+5,The appeal is under consideration.,0
+6,The settlement agreement is fair and reasonable.,1
+7,The appeal is under consideration.,0
+8,The settlement agreement is fair and reasonable.,1
+9,The court reviewed the documentation.,0
+10,The contract is deemed valid and enforceable.,1
+11,The contract is deemed valid and enforceable.,1
+12,The legal team submitted additional evidence.,0
+13,The court reviewed the documentation.,0
+14,The court reviewed the documentation.,0
+15,The court reviewed the documentation.,0
+16,The contract is declared void.,-1
+17,The appeal is denied due to lack of merit.,-1
+18,The motion to dismiss is granted.,1
+19,The defendant is found guilty.,-1
+20,The hearing is scheduled for next month.,0
+21,The settlement agreement is fair and reasonable.,1
+22,The settlement agreement is fair and reasonable.,1
+23,The court reviewed the documentation.,0
+24,The plaintiff's claims are dismissed.,-1
+25,The plaintiff's claims are dismissed.,-1
+26,The settlement agreement is fair and reasonable.,1
+27,The defendant is found guilty.,-1
+28,The court finds in favor of the plaintiff.,1
+29,The court reviewed the documentation.,0
+30,The settlement agreement is fair and reasonable.,1
+31,The motion is denied by the court.,-1
+32,The legal team submitted additional evidence.,0
+33,The appeal is denied due to lack of merit.,-1
+34,The defendant is acquitted of all charges.,1
+35,The settlement agreement is fair and reasonable.,1
+36,The contract is declared void.,-1
+37,The court reviewed the documentation.,0
+38,The legal team submitted additional evidence.,0
+39,The appeal is denied due to lack of merit.,-1
+40,The contract is declared void.,-1
+41,The legal team submitted additional evidence.,0
+42,The plaintiff's claims are dismissed.,-1
+43,The appeal is denied due to lack of merit.,-1
+44,The hearing is scheduled for next month.,0
+45,The legal team submitted additional evidence.,0
+46,The motion to dismiss is granted.,1
+47,The appeal is under consideration.,0
+48,The contract is deemed valid and enforceable.,1
+49,The legal team submitted additional evidence.,0
+50,The motion is denied by the court.,-1
+51,The defendant is found guilty.,-1
+52,The defendant is acquitted of all charges.,1
+53,The defendant is acquitted of all charges.,1
+54,The contract is declared void.,-1
+55,The plaintiff's claims are dismissed.,-1
+56,The hearing is scheduled for next month.,0
+57,The appeal is denied due to lack of merit.,-1
+58,The plaintiff's claims are dismissed.,-1
+59,The case was transferred to another jurisdiction.,0
+60,The plaintiff's claims are dismissed.,-1
+61,The plaintiff's claims are dismissed.,-1
+62,The case was transferred to another jurisdiction.,0
+63,The court finds in favor of the plaintiff.,1
+64,The motion to dismiss is granted.,1
+65,The hearing is scheduled for next month.,0
+66,The defendant is found guilty.,-1
+67,The plaintiff's claims are dismissed.,-1
+68,The appeal is under consideration.,0
+69,The motion to dismiss is granted.,1
+70,The defendant is found guilty.,-1
+71,The motion is denied by the court.,-1
+72,The contract is deemed valid and enforceable.,1
+73,The court finds in favor of the plaintiff.,1
+74,The plaintiff's claims are dismissed.,-1
+75,The motion to dismiss is granted.,1
+76,The motion to dismiss is granted.,1
+77,The contract is declared void.,-1
+78,The plaintiff's claims are dismissed.,-1
+79,The defendant is found guilty.,-1
+80,The appeal is under consideration.,0
+81,The appeal is denied due to lack of merit.,-1
+82,The court reviewed the documentation.,0
+83,The court finds in favor of the plaintiff.,1
+84,The settlement agreement is fair and reasonable.,1
+85,The plaintiff's claims are dismissed.,-1
+86,The contract is deemed valid and enforceable.,1
+87,The motion to dismiss is granted.,1
+88,The appeal is denied due to lack of merit.,-1
+89,The motion is denied by the court.,-1
+90,The motion to dismiss is granted.,1
+91,The legal team submitted additional evidence.,0
+92,The appeal is denied due to lack of merit.,-1
+93,The plaintiff's claims are dismissed.,-1
+94,The motion to dismiss is granted.,1
+95,The motion to dismiss is granted.,1
+96,The court reviewed the documentation.,0
+97,The motion to dismiss is granted.,1
+98,The contract is declared void.,-1
+99,The settlement agreement is fair and reasonable.,1
+100,The plaintiff's claims are dismissed.,-1
+101,The court reviewed the documentation.,0
+102,The legal team submitted additional evidence.,0
+103,The motion to dismiss is granted.,1
+104,The motion is denied by the court.,-1
+105,The contract is declared void.,-1
+106,The hearing is scheduled for next month.,0
+107,The case was transferred to another jurisdiction.,0
+108,The motion is denied by the court.,-1
+109,The defendant is acquitted of all charges.,1
+110,The motion to dismiss is granted.,1
+111,The legal team submitted additional evidence.,0
+112,The contract is deemed valid and enforceable.,1
+113,The defendant is acquitted of all charges.,1
+114,The defendant is found guilty.,-1
+115,The court reviewed the documentation.,0
+116,The court finds in favor of the plaintiff.,1
+117,The court reviewed the documentation.,0
+118,The motion to dismiss is granted.,1
+119,The case was transferred to another jurisdiction.,0
+120,The motion is denied by the court.,-1
+121,The contract is deemed valid and enforceable.,1
+122,The contract is declared void.,-1
+123,The appeal is under consideration.,0
+124,The defendant is acquitted of all charges.,1
+125,The motion to dismiss is granted.,1
+126,The plaintiff's claims are dismissed.,-1
+127,The motion is denied by the court.,-1
+128,The legal team submitted additional evidence.,0
+129,The settlement agreement is fair and reasonable.,1
+130,The motion is denied by the court.,-1
+131,The contract is declared void.,-1
+132,The court finds in favor of the plaintiff.,1
+133,The motion to dismiss is granted.,1
+134,The motion to dismiss is granted.,1
+135,The motion to dismiss is granted.,1
+136,The settlement agreement is fair and reasonable.,1
+137,The contract is deemed valid and enforceable.,1
+138,The settlement agreement is fair and reasonable.,1
+139,The legal team submitted additional evidence.,0
+140,The case was transferred to another jurisdiction.,0
+141,The settlement agreement is fair and reasonable.,1
+142,The settlement agreement is fair and reasonable.,1
+143,The court reviewed the documentation.,0
+144,The contract is declared void.,-1
+145,The settlement agreement is fair and reasonable.,1
+146,The defendant is acquitted of all charges.,1
+147,The court reviewed the documentation.,0
+148,The defendant is found guilty.,-1
+149,The case was transferred to another jurisdiction.,0
+150,The motion to dismiss is granted.,1
+151,The court reviewed the documentation.,0
+152,The appeal is under consideration.,0
+153,The plaintiff's claims are dismissed.,-1
+154,The case was transferred to another jurisdiction.,0
+155,The hearing is scheduled for next month.,0
+156,The case was transferred to another jurisdiction.,0
+157,The motion to dismiss is granted.,1
+158,The settlement agreement is fair and reasonable.,1
+159,The court finds in favor of the plaintiff.,1
+160,The case was transferred to another jurisdiction.,0
+161,The motion to dismiss is granted.,1
+162,The contract is deemed valid and enforceable.,1
+163,The defendant is acquitted of all charges.,1
+164,The defendant is acquitted of all charges.,1
+165,The motion to dismiss is granted.,1
+166,The defendant is found guilty.,-1
+167,The appeal is denied due to lack of merit.,-1
+168,The case was transferred to another jurisdiction.,0
+169,The appeal is denied due to lack of merit.,-1
+170,The appeal is under consideration.,0
+171,The court reviewed the documentation.,0
+172,The motion to dismiss is granted.,1
+173,The plaintiff's claims are dismissed.,-1
+174,The settlement agreement is fair and reasonable.,1
+175,The contract is deemed valid and enforceable.,1
+176,The case was transferred to another jurisdiction.,0
+177,The court finds in favor of the plaintiff.,1
+178,The settlement agreement is fair and reasonable.,1
+179,The case was transferred to another jurisdiction.,0
+180,The appeal is denied due to lack of merit.,-1
+181,The contract is deemed valid and enforceable.,1
+182,The court finds in favor of the plaintiff.,1
+183,The contract is deemed valid and enforceable.,1
+184,The hearing is scheduled for next month.,0
+185,The court reviewed the documentation.,0
+186,The plaintiff's claims are dismissed.,-1
+187,The contract is deemed valid and enforceable.,1
+188,The contract is declared void.,-1
+189,The defendant is acquitted of all charges.,1
+190,The plaintiff's claims are dismissed.,-1
+191,The court reviewed the documentation.,0
+192,The settlement agreement is fair and reasonable.,1
+193,The court finds in favor of the plaintiff.,1
+194,The hearing is scheduled for next month.,0
+195,The contract is deemed valid and enforceable.,1
+196,The contract is deemed valid and enforceable.,1
+197,The case was transferred to another jurisdiction.,0
+198,The court finds in favor of the plaintiff.,1
+199,The hearing is scheduled for next month.,0
+200,The plaintiff's claims are dismissed.,-1
+201,The motion is denied by the court.,-1
+202,The defendant is found guilty.,-1
+203,The contract is deemed valid and enforceable.,1
+204,The plaintiff's claims are dismissed.,-1
+205,The appeal is under consideration.,0
+206,The defendant is found guilty.,-1
+207,The settlement agreement is fair and reasonable.,1
+208,The motion is denied by the court.,-1
+209,The hearing is scheduled for next month.,0
+210,The appeal is under consideration.,0
+211,The settlement agreement is fair and reasonable.,1
+212,The defendant is acquitted of all charges.,1
+213,The court reviewed the documentation.,0
+214,The contract is deemed valid and enforceable.,1
+215,The contract is deemed valid and enforceable.,1
+216,The settlement agreement is fair and reasonable.,1
+217,The motion is denied by the court.,-1
+218,The appeal is under consideration.,0
+219,The contract is declared void.,-1
+220,The court reviewed the documentation.,0
+221,The defendant is acquitted of all charges.,1
+222,The settlement agreement is fair and reasonable.,1
+223,The motion is denied by the court.,-1
+224,The contract is deemed valid and enforceable.,1
+225,The defendant is found guilty.,-1
+226,The legal team submitted additional evidence.,0
+227,The settlement agreement is fair and reasonable.,1
+228,The plaintiff's claims are dismissed.,-1
+229,The case was transferred to another jurisdiction.,0
+230,The settlement agreement is fair and reasonable.,1
+231,The appeal is denied due to lack of merit.,-1
+232,The case was transferred to another jurisdiction.,0
+233,The court reviewed the documentation.,0
+234,The motion to dismiss is granted.,1
+235,The settlement agreement is fair and reasonable.,1
+236,The case was transferred to another jurisdiction.,0
+237,The plaintiff's claims are dismissed.,-1
+238,The case was transferred to another jurisdiction.,0
+239,The defendant is acquitted of all charges.,1
+240,The defendant is found guilty.,-1
+241,The contract is deemed valid and enforceable.,1
+242,The settlement agreement is fair and reasonable.,1
+243,The plaintiff's claims are dismissed.,-1
+244,The defendant is acquitted of all charges.,1
+245,The case was transferred to another jurisdiction.,0
+246,The defendant is found guilty.,-1
+247,The case was transferred to another jurisdiction.,0
+248,The court finds in favor of the plaintiff.,1
+249,The motion to dismiss is granted.,1
+250,The plaintiff's claims are dismissed.,-1
+251,The contract is declared void.,-1
+252,The contract is declared void.,-1
+253,The contract is deemed valid and enforceable.,1
+254,The contract is declared void.,-1
+255,The motion to dismiss is granted.,1
+256,The defendant is found guilty.,-1
+257,The case was transferred to another jurisdiction.,0
+258,The contract is declared void.,-1
+259,The defendant is acquitted of all charges.,1
+260,The court reviewed the documentation.,0
+261,The appeal is under consideration.,0
+262,The defendant is found guilty.,-1
+263,The defendant is found guilty.,-1
+264,The contract is deemed valid and enforceable.,1
+265,The legal team submitted additional evidence.,0
+266,The court finds in favor of the plaintiff.,1
+267,The appeal is denied due to lack of merit.,-1
+268,The contract is deemed valid and enforceable.,1
+269,The motion to dismiss is granted.,1
+270,The contract is declared void.,-1
+271,The appeal is denied due to lack of merit.,-1
+272,The contract is deemed valid and enforceable.,1
+273,The contract is deemed valid and enforceable.,1
+274,The defendant is found guilty.,-1
+275,The court reviewed the documentation.,0
+276,The settlement agreement is fair and reasonable.,1
+277,The settlement agreement is fair and reasonable.,1
+278,The defendant is acquitted of all charges.,1
+279,The plaintiff's claims are dismissed.,-1
+280,The motion is denied by the court.,-1
+281,The contract is declared void.,-1
+282,The case was transferred to another jurisdiction.,0
+283,The hearing is scheduled for next month.,0
+284,The court reviewed the documentation.,0
+285,The defendant is acquitted of all charges.,1
+286,The defendant is found guilty.,-1
+287,The motion to dismiss is granted.,1
+288,The settlement agreement is fair and reasonable.,1
+289,The contract is deemed valid and enforceable.,1
+290,The settlement agreement is fair and reasonable.,1
+291,The contract is declared void.,-1
+292,The contract is declared void.,-1
+293,The contract is deemed valid and enforceable.,1
+294,The settlement agreement is fair and reasonable.,1
+295,The appeal is denied due to lack of merit.,-1
+296,The case was transferred to another jurisdiction.,0
+297,The contract is declared void.,-1
+298,The contract is declared void.,-1
+299,The settlement agreement is fair and reasonable.,1
+300,The contract is declared void.,-1
+301,The contract is deemed valid and enforceable.,1
+302,The plaintiff's claims are dismissed.,-1
+303,The court reviewed the documentation.,0
+304,The plaintiff's claims are dismissed.,-1
+305,The settlement agreement is fair and reasonable.,1
+306,The court reviewed the documentation.,0
+307,The hearing is scheduled for next month.,0
+308,The motion is denied by the court.,-1
+309,The court finds in favor of the plaintiff.,1
+310,The plaintiff's claims are dismissed.,-1
+311,The contract is declared void.,-1
+312,The plaintiff's claims are dismissed.,-1
+313,The appeal is under consideration.,0
+314,The court reviewed the documentation.,0
+315,The plaintiff's claims are dismissed.,-1
+316,The defendant is acquitted of all charges.,1
+317,The defendant is found guilty.,-1
+318,The court finds in favor of the plaintiff.,1
+319,The motion is denied by the court.,-1
+320,The contract is deemed valid and enforceable.,1
+321,The settlement agreement is fair and reasonable.,1
+322,The case was transferred to another jurisdiction.,0
+323,The settlement agreement is fair and reasonable.,1
+324,The contract is deemed valid and enforceable.,1
+325,The hearing is scheduled for next month.,0
+326,The contract is declared void.,-1
+327,The settlement agreement is fair and reasonable.,1
+328,The appeal is under consideration.,0
+329,The court finds in favor of the plaintiff.,1
+330,The case was transferred to another jurisdiction.,0
+331,The plaintiff's claims are dismissed.,-1
+332,The legal team submitted additional evidence.,0
+333,The defendant is found guilty.,-1
+334,The hearing is scheduled for next month.,0
+335,The defendant is found guilty.,-1
+336,The case was transferred to another jurisdiction.,0
+337,The contract is deemed valid and enforceable.,1
+338,The hearing is scheduled for next month.,0
+339,The defendant is acquitted of all charges.,1
+340,The hearing is scheduled for next month.,0
+341,The appeal is under consideration.,0
+342,The case was transferred to another jurisdiction.,0
+343,The appeal is denied due to lack of merit.,-1
+344,The contract is declared void.,-1
+345,The legal team submitted additional evidence.,0
+346,The court finds in favor of the plaintiff.,1
+347,The appeal is denied due to lack of merit.,-1
+348,The settlement agreement is fair and reasonable.,1
+349,The settlement agreement is fair and reasonable.,1
+350,The court reviewed the documentation.,0
+351,The defendant is acquitted of all charges.,1
+352,The court reviewed the documentation.,0
+353,The legal team submitted additional evidence.,0
+354,The court reviewed the documentation.,0
+355,The plaintiff's claims are dismissed.,-1
+356,The case was transferred to another jurisdiction.,0
+357,The contract is deemed valid and enforceable.,1
+358,The plaintiff's claims are dismissed.,-1
+359,The motion is denied by the court.,-1
+360,The hearing is scheduled for next month.,0
+361,The contract is declared void.,-1
+362,The plaintiff's claims are dismissed.,-1
+363,The defendant is acquitted of all charges.,1
+364,The defendant is found guilty.,-1
+365,The court reviewed the documentation.,0
+366,The legal team submitted additional evidence.,0
+367,The motion is denied by the court.,-1
+368,The defendant is acquitted of all charges.,1
+369,The motion to dismiss is granted.,1
+370,The court reviewed the documentation.,0
+371,The motion is denied by the court.,-1
+372,The hearing is scheduled for next month.,0
+373,The motion is denied by the court.,-1
+374,The appeal is denied due to lack of merit.,-1
+375,The appeal is under consideration.,0
+376,The case was transferred to another jurisdiction.,0
+377,The legal team submitted additional evidence.,0
+378,The defendant is acquitted of all charges.,1
+379,The contract is declared void.,-1
+380,The plaintiff's claims are dismissed.,-1
+381,The contract is deemed valid and enforceable.,1
+382,The motion to dismiss is granted.,1
+383,The motion is denied by the court.,-1
+384,The court finds in favor of the plaintiff.,1
+385,The hearing is scheduled for next month.,0
+386,The plaintiff's claims are dismissed.,-1
+387,The motion to dismiss is granted.,1
+388,The settlement agreement is fair and reasonable.,1
+389,The court finds in favor of the plaintiff.,1
+390,The court reviewed the documentation.,0
+391,The case was transferred to another jurisdiction.,0
+392,The motion is denied by the court.,-1
+393,The settlement agreement is fair and reasonable.,1
+394,The appeal is under consideration.,0
+395,The case was transferred to another jurisdiction.,0
+396,The court finds in favor of the plaintiff.,1
+397,The settlement agreement is fair and reasonable.,1
+398,The settlement agreement is fair and reasonable.,1
+399,The plaintiff's claims are dismissed.,-1
+400,The defendant is acquitted of all charges.,1
+401,The contract is deemed valid and enforceable.,1
+402,The hearing is scheduled for next month.,0
+403,The legal team submitted additional evidence.,0
+404,The legal team submitted additional evidence.,0
+405,The motion to dismiss is granted.,1
+406,The defendant is found guilty.,-1
+407,The defendant is found guilty.,-1
+408,The court reviewed the documentation.,0
+409,The contract is declared void.,-1
+410,The hearing is scheduled for next month.,0
+411,The appeal is denied due to lack of merit.,-1
+412,The settlement agreement is fair and reasonable.,1
+413,The appeal is under consideration.,0
+414,The motion is denied by the court.,-1
+415,The case was transferred to another jurisdiction.,0
+416,The defendant is acquitted of all charges.,1
+417,The motion to dismiss is granted.,1
+418,The motion is denied by the court.,-1
+419,The contract is deemed valid and enforceable.,1
+420,The court finds in favor of the plaintiff.,1
+421,The settlement agreement is fair and reasonable.,1
+422,The motion is denied by the court.,-1
+423,The contract is deemed valid and enforceable.,1
+424,The case was transferred to another jurisdiction.,0
+425,The contract is declared void.,-1
+426,The court reviewed the documentation.,0
+427,The hearing is scheduled for next month.,0
+428,The defendant is acquitted of all charges.,1
+429,The legal team submitted additional evidence.,0
+430,The settlement agreement is fair and reasonable.,1
+431,The defendant is found guilty.,-1
+432,The court finds in favor of the plaintiff.,1
+433,The defendant is found guilty.,-1
+434,The contract is declared void.,-1
+435,The motion to dismiss is granted.,1
+436,The plaintiff's claims are dismissed.,-1
+437,The court reviewed the documentation.,0
+438,The motion is denied by the court.,-1
+439,The appeal is denied due to lack of merit.,-1
+440,The legal team submitted additional evidence.,0
+441,The plaintiff's claims are dismissed.,-1
+442,The contract is declared void.,-1
+443,The motion is denied by the court.,-1
+444,The contract is declared void.,-1
+445,The legal team submitted additional evidence.,0
+446,The settlement agreement is fair and reasonable.,1
+447,The defendant is acquitted of all charges.,1
+448,The court reviewed the documentation.,0
+449,The motion to dismiss is granted.,1
+450,The hearing is scheduled for next month.,0
+451,The contract is deemed valid and enforceable.,1
+452,The case was transferred to another jurisdiction.,0
+453,The defendant is acquitted of all charges.,1
+454,The court reviewed the documentation.,0
+455,The motion to dismiss is granted.,1
+456,The appeal is under consideration.,0
+457,The appeal is denied due to lack of merit.,-1
+458,The plaintiff's claims are dismissed.,-1
+459,The case was transferred to another jurisdiction.,0
+460,The appeal is denied due to lack of merit.,-1
+461,The motion to dismiss is granted.,1
+462,The court finds in favor of the plaintiff.,1
+463,The contract is declared void.,-1
+464,The legal team submitted additional evidence.,0
+465,The court reviewed the documentation.,0
+466,The settlement agreement is fair and reasonable.,1
+467,The motion to dismiss is granted.,1
+468,The court reviewed the documentation.,0
+469,The settlement agreement is fair and reasonable.,1
+470,The defendant is found guilty.,-1
+471,The court finds in favor of the plaintiff.,1
+472,The motion to dismiss is granted.,1
+473,The case was transferred to another jurisdiction.,0
+474,The plaintiff's claims are dismissed.,-1
+475,The motion is denied by the court.,-1
+476,The court reviewed the documentation.,0
+477,The plaintiff's claims are dismissed.,-1
+478,The contract is deemed valid and enforceable.,1
+479,The plaintiff's claims are dismissed.,-1
+480,The contract is declared void.,-1
+481,The plaintiff's claims are dismissed.,-1
+482,The defendant is found guilty.,-1
+483,The contract is declared void.,-1
+484,The motion to dismiss is granted.,1
+485,The defendant is acquitted of all charges.,1
+486,The motion is denied by the court.,-1
+487,The plaintiff's claims are dismissed.,-1
+488,The appeal is denied due to lack of merit.,-1
+489,The appeal is denied due to lack of merit.,-1
+490,The legal team submitted additional evidence.,0
+491,The court reviewed the documentation.,0
+492,The contract is deemed valid and enforceable.,1
+493,The court reviewed the documentation.,0
+494,The case was transferred to another jurisdiction.,0
+495,The legal team submitted additional evidence.,0
+496,The contract is declared void.,-1
+497,The settlement agreement is fair and reasonable.,1
+498,The contract is declared void.,-1
+499,The contract is deemed valid and enforceable.,1
+500,The case was transferred to another jurisdiction.,0
