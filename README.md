@@ -1,9 +1,5 @@
-Implemented REST APIs for CSV upload, data processing, and history tracking using Django REST Framework
-
-Visualized equipment metrics using Chart.js (web) and Matplotlib (desktop)
-
-Generated password-protected PDF reports using ReportLab and PyPDF
-
-Designed responsive UI with modern dashboard components
-
-Supported both web-based and desktop-based data analysis workflows
+-Implemented REST APIs for CSV upload, data processing, and history tracking using Django REST Framework
+-Visualized equipment metrics using Chart.js (web) and Matplotlib (desktop)
+-Generated password-protected PDF reports using ReportLab and PyPDF
+-Designed responsive UI with modern dashboard components
+-Supported both web-based and desktop-based data analysis workflows
