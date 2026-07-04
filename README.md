@@ -1,4 +1,6 @@
-## 🚀 Project Features
+## 🚀 ChemScope Hybrid Web App
+
+Project Features
 
 - Implemented REST APIs for CSV upload, data processing, and history tracking using **Django REST Framework**
 - Visualized equipment metrics using **Chart.js** for the web application and **Matplotlib** for the desktop application
